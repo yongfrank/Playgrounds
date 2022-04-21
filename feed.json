@@ -10,9 +10,10 @@
 			"overviewSubtitle": "Learn the basics of the SwiftUI.",
 			"detailSubtitle": "Fundamentals of Core Data",
 			"description": "The App Oh My Flag helps students get familiar with flags. It is both educating and entertaining with the design of multi-module and interactive tasks.",
-			"contentIdentifier": "io.github.yongfrank.ohMyFlag",
+			"difficultyLevel": "intermediate",
+			"contentIdentifier": "io.github.yongfrank.OhMyFlag",
 			"contentVersion": "1.0",
-			"url": "https://yongfrank.github.ioPlaygrounds/OhMyFlag/OhMyFlag.swiftpm.zip",
+			"url": "https://yongfrank.github.io/Playgrounds/OhMyFlag/OhMyFlag.swiftpm.zip",
             "publishedDate": "2022-04-22T09:40:00-07:00",
             "lastUpdatedDate": "2022-04-22T09:40:00-07:00",
 			"additionalInformation": [
