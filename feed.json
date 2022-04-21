@@ -14,8 +14,8 @@
 			"contentIdentifier": "io.github.yongfrank.OhMyFlag",
 			"contentVersion": "1.0",
 			"url": "https://yongfrank.github.io/Playgrounds/OhMyFlag/OhMyFlag.swiftpm.zip",
-            "publishedDate": "2022-04-22T09:40:00-07:00",
-            "lastUpdatedDate": "2022-04-22T09:40:00-07:00",
+            "publishedDate": "2022-04-21T09:40:00-07:00",
+            "lastUpdatedDate": "2022-04-21T09:40:00-07:00",
 			"additionalInformation": [
 				{
 					"name": "Languages",
@@ -24,7 +24,7 @@
 			],
             "thumbnailURL": "Playgrounds/OhMyFlag/thumbnail.png",
             "bannerImageURL": "Playgrounds/OhMyFlag/bannerImage.PNG",
-            "additionalInformation": [
+            "previewImageURLs": [
                 "Playgrounds/OhMyFlag/preview-1.jpeg",
                 "Playgrounds/OhMyFlag/preview-2.jpeg",
                 "Playgrounds/OhMyFlag/preview-3.jpeg"
