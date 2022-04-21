@@ -12,19 +12,21 @@
 			"description": "The App Oh My Flag helps students get familiar with flags. It is both educating and entertaining with the design of multi-module and interactive tasks.",
 			"contentIdentifier": "io.github.yongfrank.ohMyFlag",
 			"contentVersion": "1.0",
-			"url": "https:\/\/yongfrank.github.io\/Playgrounds\/OhMyFlag\/OhMyFlag.swiftpm.zip",
+			"url": "https://yongfrank.github.ioPlaygrounds/OhMyFlag/OhMyFlag.swiftpm.zip",
+            "publishedDate": "2022-04-22T09:40:00-07:00",
+            "lastUpdatedDate": "2022-04-22T09:40:00-07:00"
 			"additionalInformation": [
 				{
 					"name": "Languages",
 					"value": "English"
 				}
 			]
-            "thumbnailURL": "\/Playgrounds\/OhMyFlag\/thumbnail.png",
-            "bannerImageURL": "\/Playgrounds\/OhMyFlag\/bannerImage.PNG",
+            "thumbnailURL": "Playgrounds/OhMyFlag/thumbnail.png",
+            "bannerImageURL": "Playgrounds/OhMyFlag/bannerImage.PNG",
             "additionalInformation": [
-                "\/Playgrounds\/OhMyFlag\/preview-1.jpeg",
-                "\/Playgrounds\/OhMyFlag\/preview-2.jpeg",
-                "\/Playgrounds\/OhMyFlag\/preview-3.jpeg"
+                "Playgrounds/OhMyFlag/preview-1.jpeg",
+                "Playgrounds/OhMyFlag/preview-2.jpeg",
+                "Playgrounds/OhMyFlag/preview-3.jpeg"
             ]
 		}
 	]
