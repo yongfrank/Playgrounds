@@ -1,0 +1,29 @@
+{
+	"title": "Hacking with Frank!",
+	"publisherName": "Frank Chu",
+	"feedIdentifier": "io.github.yongfrank",
+	"contactURL": "mailto:yongfrank@outlook.com",
+	"formatVersion": "1.0",
+	"documents": [
+		{
+			"title": "Oh My Flag",
+			"overviewSubtitle": "Learn the basics of the SwiftUI.",
+			"detailSubtitle": "Fundamentals of Core Data",
+			"description": "The App Oh My Flag helps students get familiar with flags. It is both educating and entertaining with the design of multi-module and interactive tasks.",
+			"contentIdentifier": "io.github.yongfrank.ohMyFlag",
+			"contentVersion": "1.0",
+			"url": "https://yongfrank.github.io/Playgrounds/OhMyFlag/OhMyFlag.swiftpm.zip",
+			"additionalInformation": [
+				{
+					"name": "Languages",
+					"value": "English"
+				}
+			],
+			"thumbnailURL": "",
+			"bannerImageURL": "",
+			"previewImageURLs": [
+				"",
+			]
+		}
+	]
+}
